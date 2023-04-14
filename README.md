@@ -19,7 +19,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Add a config file at the root of the project. This config file must be named config.json :
+4. Add a config file in the src folder in the project. This config file must be named config.json :
 ```json
 {
     "api_key": "your_api_key"
