@@ -16,7 +16,7 @@ source env/bin/activate
 
 3. Download all the dependencie with pip :
 ```script
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Add a config file at the root of the project. This config file must be named config.json :
